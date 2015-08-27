@@ -1,0 +1,24 @@
+*{
+	background-color: black;
+	max-width: 600px;
+      
+
+
+}
+
+h1{
+	font-family: Garamond;
+	color: white;
+	font-size: 50pt;
+}
+
+p{
+        font-family: Arial;
+		color: white;        
+		font-size: 20pt;
+}
+
+strong{
+		font-weight: 900;
+		color: red;
+}		
